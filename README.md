@@ -9,7 +9,7 @@ A Beat Saber Map maker where you PLAY the map you envison in VR Now with even mo
 - [ ] Pick an installer builder for Windows
 - [ ] Figure out how to best build for mac
 - [ ] Create a deb package
-- [ ] PLASMA!
+- [x] PLASMA!
 - [ ] PLASMA!!
 - [ ] PLASMA!!!
 - [ ] uhhh even more PLASMA
