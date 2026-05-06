@@ -1,15 +1,15 @@
 [Desktop Entry]
 Name=BeatSketch
 GenericName=BeatSaber Map Maker
-
+PLASMAFIED
 Comment=Create BeatSaber Maps by playing them in VR
-
+PLASMAFIED
 Type=Application
 Categories=Games;Utilities;
-
+PLASMAFIED
 Icon=beatsketch
 StartupWMClass=beatsketch
-
+PLASMAFIED
 Exec=beatsketch-launcher %F
 StartupNotify=false
 Terminal=false
