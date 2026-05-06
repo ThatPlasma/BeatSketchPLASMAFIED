@@ -1,11 +1,6 @@
 # BeatSketch
-A Beat Saber Map maker where you PLAY the map you envison in VR 
+A Beat Saber Map maker where you PLAY the map you envison in VR Now with even more Plasma
 
-## Meta repository
-This repository is used for releases, docs and build scripts.
-The actual source code is in separate repositories:
-- For the VR application: [here](https://github.com/BeatSketch/vr)
-- For the launcher: [here](https://github.com/BeatSketch/launcher)
 
 ## TODOs
 - [ ] Finish Dockerfile
@@ -14,3 +9,7 @@ The actual source code is in separate repositories:
 - [ ] Pick an installer builder for Windows
 - [ ] Figure out how to best build for mac
 - [ ] Create a deb package
+- [ ] PLASMA!
+- [ ] PLASMA!!
+- [ ] PLASMA!!!
+- [ ] uhhh even more PLASMA
